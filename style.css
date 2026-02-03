@@ -1,0 +1,32 @@
+header img{
+    height: 200px;
+
+}
+header{
+    text-align:center;
+    font-family:days one;
+    background-color: rgb(236, 236, 236);
+    box-shadow: 5px 2px;
+    padding: 5px 0px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(102, 133, 158);
+    padding: 5px 15px;
+    font-size: 16px;
+    border-radius: 0px 20px 0px 20px;
+}
+nav a:hover{
+    background-color:rgb(95, 131, 160);
+    color: white;
+    border-radius:10px;
+    text-shadow:2px 2px 5px rgb(227, 250, 255);
+    transition: 0.25s;
+}
+section.home{
+    text-align:center;
+    padding: 15px 5px;
+    margin: 0px 200px;
+    font-family:days one;
+    font-size: 12px;
+}
